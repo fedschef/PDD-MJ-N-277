@@ -1,0 +1,14 @@
+{
+   "pais1": {
+      "país": "Czechia",
+      "casos_confirmados": 1628536,
+      "fallecidos": 29213,
+      "recuperados": 1548014
+   },
+   "pais2": {
+      "país": "Brazil",
+      "casos_confirmados": 14521289,
+      "fallecidos": 398185,
+      "recuperados": 12879847
+   }
+}

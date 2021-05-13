@@ -1,0 +1,48 @@
+{
+  "cliente": {
+    "nombre": "Raul",
+    "tipo": "humano",
+    "gustos": [
+      "leer",
+      "musica",
+      "conversar"
+    ],
+    "edad": 40,
+    "email": "raul@nada.com",
+    "mascotas": [
+      {
+        "nombre": "Rocco",
+        "tipo_mascota": "perro",
+        "raza": "Labrador",
+        "edad": 4,
+        "gustos": [
+          "comer",
+          "correr a las palomas",
+          "ladrar sin parar"
+        ]
+      },
+      {
+        "nombre": "Michi",
+        "tipo_mascota": "gato",
+        "raza": "N/A",
+        "edad": 8,
+        "gustos": [
+          "rasgu\u00f1ar",
+          "comer",
+          "maullar"
+        ]
+      },
+      {
+        "nombre": "Milo",
+        "tipo_mascota": "hanster",
+        "raza": "N/A",
+        "edad": 1,
+        "gustos": [
+          "comer",
+          "dormir",
+          "jugar con la rueda"
+        ]
+      }
+    ]
+  }
+}

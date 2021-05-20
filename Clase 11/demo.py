@@ -23,4 +23,13 @@ def hello_flask():
 # Ahora elijo 3000, porque si.
 
 
-app.run( port = 3000 )
+#app.run( port = 3000 )
+
+#%%
+# Si quiero conectarme desde afuera de mi red local (no necesarimanete mi computadora; computadoras en mi WiFi por ejemplo)
+app2 = Flask("home_app")
+@app2.route('/')
+def hello_flask_home():
+    
+    return "Hola desde Flask :D"
+app2.run( port = 3000 , host='0.0.0.0')

@@ -4,7 +4,7 @@
     "src" : "Clase13/*.py",
     "use" : "@vercel/python"
     }],
-    "roads"   : [{
+    "routes"   : [{
     "src" : "/.*",
     "dest" : "Clase13/app.py"
     }]

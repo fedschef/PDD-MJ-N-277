@@ -6,6 +6,6 @@
     }],
     "roads"   : [{
     "src" : "/.*",
-    "dest" : "Clase 13/demo.py"
+    "dest" : "Clase13/demo.py"
     }]
 }

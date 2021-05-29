@@ -133,7 +133,7 @@ rope==0.18.0
 Rtree==0.9.7
 scipy==1.5.4
 selenium==3.141.0
-setuptools==52.0.0.post20210125
+setuptools==57.0.0
 six==1.15.0
 snowballstemmer==2.1.0
 sortedcontainers==2.3.0

@@ -1,7 +1,7 @@
 {
     "version" : 2,
     "builds"  : [{
-    "src" : "Workshop_2/app_workshop_g1.py",
+    "src" : "*.py",
     "use" : "@vercel/python"
     }],
     "routes"   : [{

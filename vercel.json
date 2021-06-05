@@ -6,6 +6,6 @@
     }],
     "routes"   : [{
     "src" : "/.*",
-    "dest" : "Workshop_2/app_workshop_g1.py"
+    "dest" : "./Workshop_2/app_workshop_g1.py"
     }]
 }
